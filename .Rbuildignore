@@ -16,3 +16,4 @@ $run_dev.*
 ^\.github$
 ^Dockerfile$
 ^README.Rmd
+manifest.json
